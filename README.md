@@ -1,2 +1,2 @@
 # TikTok-Algorithm-Perception-Analysis
-TikTok-Algorithm-Perception-Analysis
+This repository contains the data analysis, survey instrument, and supporting documentation for a sociological research project examining TikTok users’ perceptions of algorithmic personalization, content diversity, agenda-setting, and digital literacy. Based on 44 complete survey responses, the project explores how users experience and interpret TikTok’s "For You" feed. Analysis includes descriptive statistics, thematic coding of open-ended responses, and visualizations. The study prioritizes user experiences over technical audit, contributing to discussions on algorithmic power, user agency, and media literacy in digital environments.
